@@ -1,8 +1,7 @@
 # WealthHealthHRnet
-
-Author : Frédéric Kreuder,
-Category : Application, Student project,
-Description : HRnet is a human resources application, developed for the company Wealth Health. HRnet allows you to enter and save employee informations and manage the list of them.
+# Author : Frédéric Kreuder,
+# Category : Application, Student project,
+# Description : HRnet is a human resources application, developed for the company Wealth Health. HRnet allows you to enter and save employee informations and manage the list of them.
 
 # Getting Started with Create React App
 
